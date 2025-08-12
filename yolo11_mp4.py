@@ -272,7 +272,7 @@ if __name__ == "__main__":
     # 비디오 파일 경로 (여기에 실제 파일 경로 입력)
     video_files = [
         "dance_video.mp4",      # 댄스 영상
-        "sample_video.avi",     # 샘플 영상
+        "sample_video.mp4",     # 샘플 영상
         "test.mov",            # 테스트 영상
     ]
     
